@@ -1,4 +1,4 @@
-Package,Category,quanteda,tm,tidytext,corpus,koRpus,NLTK (Python)
+Function,Category,quanteda,tm,tidytext,corpus,koRpus,NLTK
 Create corpus,Corpus,corpus(),Corpus(),,corpus_frame(),read.corp.custom(),PlaintextCorpusReader()
 Bind/subset corpora,Corpus,corpus_subset(),"tm_combine(); tm_filter() 
 ",,,,
